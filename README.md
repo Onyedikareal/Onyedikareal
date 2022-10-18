@@ -2,7 +2,7 @@
 <div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3 >
-  > hey there, I'm Onyedika
+  > hey there, I'm Israel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
   <div id="badges" >
