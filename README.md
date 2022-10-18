@@ -55,11 +55,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
 
-- 👋 Hi, I’m @Onyedikareal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onyedikareal&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikareal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### :writing_hand: Blog Posts :
 
 <!---
 Onyedikareal/Onyedikareal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
