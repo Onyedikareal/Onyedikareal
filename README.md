@@ -5,7 +5,7 @@
   > hey there, I'm Onyedika
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
-  <div id="badges" align="center">
+  <div id="badges" >
   <a href="https://linkedin.com/in/onyedika-ukwueze" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,15 +23,13 @@
   
 I am a Full Stack software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with over 3 years experience in mobile app development using flutter. 
 
-- :telescope: I’m currently working as a Mobile App Engineer and contributing to frontend and backend for building mobile applications.
+- :telescope: I’m currently developing mobile applications using flutter.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently exploring backend development using python flask.
 
-- :zap: In my free time, I solve problems on Hackerank, contribute to open source and read tech articles.
+- :zap: In my free time, I solve algorithm and data structure problems on <a href = "https://leetcode.com/Onyedikareal"> Leetcode</a>, contribute to open source, read tech articles and write mobile app development tutorials.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-onyedika-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) |  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
-</div>
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-onyedika-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-engr_real-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) 
 
 
 
