@@ -29,7 +29,7 @@ I am a Full Stack software developer <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I solve algorithm and data structure problems on <a href = "https://leetcode.com/Onyedikareal"> Leetcode</a>, contribute to open source, read tech articles and write mobile app development tutorials.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-onyedika-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-engr_real-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-follow-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) 
 
 
 
@@ -55,7 +55,7 @@ I am a Full Stack software developer <img src="https://media.giphy.com/media/WUl
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=onyedikareal&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikareal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onyedikareal&layout=compact&theme=vision-friendly-dark)](https://github.com/onyedikareal/github-readme-stats)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
