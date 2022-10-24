@@ -24,7 +24,7 @@ I am a Full Stack software developer <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Currently exploring backend development using python flask.
 
-- :zap: In my free time, I solve algorithm and data structure problems on <a href = "https://leetcode.com/Onyedikareal"> Leetcode</a>, contribute to open source, read tech articles and write mobile app development tutorials.
+- :zap: In my free time, I solve algorithm and data structure problems, contribute to open source, read tech articles and write mobile app development tutorials.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-follow-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) 
 
