@@ -57,7 +57,7 @@ I am a Full Stack software developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### :writing_hand: Blog Posts :
+<!-- ### :writing_hand: Blog Posts :
 
 <!---
 Onyedikareal/Onyedikareal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
