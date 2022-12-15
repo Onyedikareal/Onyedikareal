@@ -2,7 +2,7 @@
 <div id="header" >
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3 >
-  > hey there, I'm Israel
+  > hey there, I'm Onyedika
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
   <div id="badges" >
@@ -25,7 +25,7 @@ I am a Full Stack software developer <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I solve algorithm and data structure problems, contribute to open source, read tech articles and write mobile app development tutorials.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-follow-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/onyedika-ukwueze) [![Twitter Badge](https://img.shields.io/badge/-follow-white?style=flat&logo=Twitter&logoColor=blue)](https://twitter.com/engr_real) [![Web Badge](https://img.shields.io/badge/-onyicodes-white?style=flat&logo=Internet&logoColor=blue)](https://onyicodes.com) 
 
 
 
